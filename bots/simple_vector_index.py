@@ -1,3 +1,6 @@
+from dotenv import load_dotenv
+import os
+load_dotenv(os.path.join(os.path.dirname(__file__), '..', '.env'))
 from llama_index import GPTVectorStoreIndex, SimpleDirectoryReader, ServiceContext, Document
 
 
@@ -9,14 +12,16 @@ def load_knowledge() -> list[Document]:
 
 def create_index() -> GPTVectorStoreIndex:
     print('Creating new index')
-    # Load data
     documents = load_knowledge()
-    # Create index from documents
-    service_context = ServiceContext.from_defaults(chunk_size_limit=3000)
+    from llama_index import LLMPredictor
+    from langchain.chat_models import ChatOpenAI
+    llm_predictor = LLMPredictor(llm=ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo"))
+    service_context = ServiceContext.from_defaults(
+        llm_predictor=llm_predictor,
+        chunk_size_limit=3000
+    )
     index = GPTVectorStoreIndex.from_documents(documents, service_context=service_context)
-    # save_index(index)
     return index
-
 
 def save_index(index: GPTVectorStoreIndex):
     # Save index to file
@@ -33,11 +38,9 @@ def load_index() -> GPTVectorStoreIndex:
 
 
 def query_index(index: GPTVectorStoreIndex):
-    # Query index
-    query_engine = index.as_query_engine()
     while True:
         prompt = input("Type prompt...")
-        response = query_engine.query(prompt)
+        response = index.query(prompt)
         print(response)
 
 

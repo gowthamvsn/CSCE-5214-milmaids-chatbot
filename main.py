@@ -2,8 +2,9 @@ import os
 import importlib
 
 
-# Store API key in environment variable
-os.environ['OPENAI_API_KEY'] = 'YOUR_OPENAI_API_KEY'
+# Securely loads API key in .env file
+from dotenv import load_dotenv
+load_dotenv()
 
 
 def list_bots():

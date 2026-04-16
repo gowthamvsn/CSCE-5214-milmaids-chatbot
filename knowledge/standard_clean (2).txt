@@ -1,0 +1,34 @@
+SERVICE NAME: STANDARD CLEAN
+
+DESCRIPTION:
+Standard cleaning is the routine cleaning service designed to keep a home clean, organized, and fresh. It includes dusting, vacuuming, sweeping, mopping, wiping surfaces, and cleaning bathrooms and kitchens.
+
+ALL ROOMS TASKS:
+Dust blinds
+Dust baseboards
+Dust all furniture
+Dust ceiling fans
+Trash cans emptied and cleaned
+Glass doors cleaned inside and outside
+Vacuum furniture
+Tables and chairs cleaned
+Floors vacuumed
+Floors swept and mopped
+Wipe down appliance exteriors
+
+KITCHEN TASKS:
+Clean sinks and countertops
+Clean backsplash
+Clean outlets
+Clean light switches
+Microwave cleaned inside and outside
+Clean stovetop and hood
+Cabinets cleaned (exterior)
+
+
+BATHROOM TASKS:
+Clean sinks and countertops
+Bathtubs cleaned
+Showers cleaned
+Sink and vanity exterior cleaned
+Mirrors cleaned

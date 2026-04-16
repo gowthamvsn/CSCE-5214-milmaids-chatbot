@@ -1,0 +1,43 @@
+MIL MAIDS RESIDENTIAL CLEANING SERVICES KNOWLEDGE FILE
+
+
+SERVICE NAME: DEEP CLEAN
+
+DESCRIPTION:
+Deep cleaning is a more detailed cleaning service designed for homes that require additional attention or have not been professionally cleaned recently. It includes everything in the standard cleaning plus additional detailed cleaning tasks.
+
+ALL ROOMS TASKS:
+Dust blinds
+Dust baseboards
+Dust all furniture
+Dust ceiling fans
+Trash cans emptied and cleaned
+Glass doors cleaned inside and outside
+Vacuum furniture
+Tables and chairs cleaned
+Floors vacuumed
+Floors swept and mopped
+Windows cleaned inside
+Blinds handwashed
+Baseboards handwashed
+Wipe down appliance exteriors
+
+KITCHEN TASKS:
+Clean sinks and countertops
+Clean backsplash
+Clean outlets
+Clean light switches
+Microwave cleaned inside and outside
+Clean stovetop and hood
+Cabinets cleaned exterior
+Clean oven
+Refrigerator disassembled and cleaned
+Dishwasher cleaned
+Cabinets cleaned interior
+
+BATHROOM TASKS:
+Clean sinks and countertops
+Bathtubs cleaned
+Showers cleaned
+Sink and vanity exterior cleaned
+Mirrors cleaned
