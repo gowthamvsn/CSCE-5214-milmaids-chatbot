@@ -11,8 +11,6 @@ google-auth==2.17.3
 google-auth-oauthlib==1.0.0
 gptcache==0.1.10
 idna==3.4
-langchain==0.0.139
-llama-index==0.5.15
 marshmallow==3.19.0
 marshmallow-enum==1.5.1
 multidict==6.0.4
@@ -43,3 +41,5 @@ typing_extensions==4.5.0
 tzdata==2023.3
 urllib3==1.26.15
 yarl==1.8.2
+python-dotenv==1.0.0
+streamlit==1.26.0
