@@ -40,7 +40,7 @@ For pricing questions, a dedicated code path extracts service type and square fo
 
 ### Pricing and quotes
 - *"How much does a standard clean cost for a 1,500 sq ft home?"*
-- *"Give me a quote for a move-out clean for 2,000 sqft with oven cleaning."*
+- *"Can you quote me for a 2000 sqft deep clean with oven cleaning?."*
 - *"What are your add-on services?"*
 - Supported add-ons: oven cleaning, refrigerator cleaning, dishwasher cleaning, window cleaning, blinds, laundry, wall washing, baseboards, porch sweep, fireplace ash sweep, cabinet cleaning, linen change, and more
 
