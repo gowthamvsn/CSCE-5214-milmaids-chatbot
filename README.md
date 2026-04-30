@@ -47,6 +47,5 @@ This project was initially created by Robin de Koster. Then it was modified by G
 
 ---
 
-Give this project a ⭐ if you find it useful! Your support is greatly appreciated.
 
 Feel free to reach out with any questions or suggestions, and don't forget to share your own amazing projects using ChatGPT Custom Knowledge Chatbot!
