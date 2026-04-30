@@ -43,6 +43,9 @@ For pricing questions, a dedicated code path extracts service type and square fo
 - *"Can you quote me for a 2000 sqft deep clean with oven cleaning?."*
 - *"What are your add-on services?"*
 - Supported add-ons: oven cleaning, refrigerator cleaning, dishwasher cleaning, window cleaning, blinds, laundry, wall washing, baseboards, porch sweep, fireplace ash sweep, cabinet cleaning, linen change, and more
+- How much does a standard cleaning cost?
+- What is the price of a deep clean?
+
 
 ### Service areas
 - *"Do you serve San Antonio?"*
